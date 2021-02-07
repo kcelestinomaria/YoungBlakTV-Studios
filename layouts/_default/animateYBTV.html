@@ -1,0 +1,95 @@
+{{ $anime := resources.Get "js/anime.js"}}
+{{ $animateYBTV := resources.Get "js/animateYBTV.js"}}
+{{ $libs := slice $anime $animateYBTV }}
+{{ $js := $libs | resources.Concat "js/app.js" | minify | fingerprint }}
+<script src= "{{ $js.RelPermalink }}"></script>
+<script src="{{ "js/animateYBTV.js" | relURL }}"></script>
+<section class="site-hero" style="background-image: url('{{ .background_image }}');">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <div class="site-hero-content text-center">
+            <h6>{{ .tagline }}</h6>
+            <!--<h1>
+              {{ .heading }}
+            </h1>-->
+            <h1 class="ml5">
+              <span class="text-wrapper">
+                <span class="line line1"></span>
+                <span class="letters letters-left">Young Blak</span>
+                <span class="letters ampersand">&amp;</span>
+                <span class="letters letters-right">Talented Vision Studios</span>
+                <span class="line line2"></span>
+              </span>
+            </h1>
+            <ul class="site-hero-content-buttons">
+              <li>
+                <a href="{{ .primary_button_url | absURL }}" class="btn btn-secondary">
+                  <span class="btn-area">
+                    <span data-text="{{ .primary_button }}">
+                      {{ .primary_button }}
+                    </span>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="{{ .secondary_button_url | absURL }}" class="btn btn-primary">
+                  <span class="btn-area">
+                    <span data-text="{{ .secondary_button }}">
+                      {{ .secondary_button }}
+                    </span>
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a href="#counter" class="site-hero-scroll scroll-to">
+      <img src="images/arrow-down.svg" alt="arrow-down">
+    </a>
+  </section>
+  <style>
+      .ml5 {
+    position: relative;
+    font-weight: 300;
+    font-size: 4.5em;
+    color: black;
+  }
+  
+  .ml5 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.1em;
+    padding-right: 0.05em;
+    padding-bottom: 0.15em;
+    line-height: 1em;
+  }
+  
+  .ml5 .line {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 3px;
+    width: 100%;
+    background-color: goldenrod;
+    transform-origin: 0.5 0;
+  }
+  
+  .ml5 .ampersand {
+    font-family: Baskerville, serif;
+    font-style: italic;
+    font-weight: 400;
+    width: 1em;
+    margin-right: -0.1em;
+    margin-left: -0.1em;
+  }
+  
+  .ml5 .letters {
+    display: inline-block;
+    opacity: 0;
+  }
+  </style>
