@@ -3,15 +3,15 @@ enable: true
 title: OPINIONS FROM REAL PEOPLE
 subtitle: Testimonials from real people we have worked with.
 testimonial_item:
-- thumb: ''
+- thumb: "/images/ced-1-of-1.jpg"
   name: Cedrique Wafula
   company_position: CEO, Logicae Science
   quote: "\"I was overly impressed by the level of professionalism and elegance with
-    which the team at YBTV Studios handled our corporate photoshoots and the photoshoots
-    and the results were reflective of their efficiency, skillset, and competence.
-    I loved how they captured the essence of each of each of my teammates at Logicae
-    Science. The shoot was fun, they were super patient and they're most definetely
-    worth the buck!\" \n"
+    which the team at YBTV Studios handled our corporate photoshoots. The results
+    were reflective of their efficiency, skillset, and competence. I especially loved
+    how they captured the essence of each of my teammates at Logicae Science. The
+    shoot was fun, they were super patient and they're most definitely worth the buck!\"
+    \n"
 - thumb: images/testimonial/user-thumb-two.jpg
   name: Nicole Gwindi
   company_position: Dean of Pastoral Care, African Leadership Academy
