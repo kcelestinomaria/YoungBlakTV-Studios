@@ -1,5 +1,5 @@
 ---
-title: Previous Work No.4
+title: Previous Work Number 2
 date: 2019-12-23T15:55:44.000+06:00
 image: images/projects/project-thumb-three.jpg
 category:
