@@ -18,4 +18,5 @@ fields:
   name: author
   label: author
 pages:
+- content/blog/our-music-works.md
 - content/blog/the-best-from-our-archives.md
