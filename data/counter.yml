@@ -1,14 +1,14 @@
-enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
-counter_item: 
-  - title: "Happy Clients"
-    number: "20"
-
-  - title: "Projects Completed"
-    number: "10"
-
-  - title: "Cups of coffee"
-    number: "35"
-
-  - title: "Telephone Talks"
-    number: "30"
+---
+enable: true
+heading: THE PROOF IS IN THE PUDDING!
+counter_item:
+- title: Photoshoots Taken
+  number: "32"
+- title: Happy Clients
+  number: "20"
+- title: Projects Completed
+  number: "10"
+- title: Cups of coffee
+  number: "35"
+- title: Telephone Talks
+  number: "30"
