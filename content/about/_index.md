@@ -1,10 +1,16 @@
 ---
-title: "About"
-date: 2021-02-05T19:11:04+03:00
-heading: "Young Blak & Talented Vision Studios. We are an up and coming film-making and professional acting studio"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam bibendum risus non commodo cursus. In pulvinar massa mi, ut aliquam enim luctus nec. Nullam auctor tellus at mi rutrum congue. Suspendisse potenti. Donec imperdiet et odio ornare dapibus. Sed vel tristique nunc. Ut semper nisl non est volutpat suscipit. Integer venenatis tempor fermentum. Vivamus sit amet augue pellentesque diam ullamcorper tempus et at tellus. Praesent sed accumsan velit, finibus consequat ligula."
-expertise_title: "What We Do"
-expertise_sectors: ["Crew Representation Rights", "Film-making", "Storytelling", "Acting legal rights protection" ]
-draft: false
----
+title: About
+date: 2021-02-05T19:11:04.000+03:00
+heading: YBTV Studios dedicates itself to the highest quality of films, all delivered
+  with utmost creativity, imagination, and originality
+description: |-
+  Currently, the studio is working to ensure the protection of professional rights in regards to crew representation. This goes a long way to ensure that our customers are receiving favorable rates and that their rights are respected within all legal frameworks.
+  Our long term vision is to set up a physical studio space for customized film making sets in order to catalyze storytelling on the continent
+expertise_title: What We Do
+expertise_sectors:
+- Professional Photography
+- Crew Representation Rights
+- Film-making
+- Storytelling
 
+---
