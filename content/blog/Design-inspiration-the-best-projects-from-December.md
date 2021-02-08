@@ -1,9 +1,10 @@
 ---
-title: "Acting Inspiration: The Best Projects From December"
-date: 2019-12-24T13:45:06+06:00
-image: images/blog/blog-post-04.jpg
-feature_image: https://via.placeholder.com/300x350
-author: Alexender Schoitiz
+title: 'Photoshoot Inspiration: The Best Recent Projects'
+date: 2019-12-24T13:45:06.000+06:00
+image: "/images/img-20210208-wa0005.jpg"
+feature_image: "/images/img-20210208-wa0008.jpg"
+author: Maxwell O. Simba
+
 ---
 ### Black Lines brand identity, by & Smith
 
@@ -33,4 +34,3 @@ Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. 
 
 
 > Paul Rand, graphic designer
-
