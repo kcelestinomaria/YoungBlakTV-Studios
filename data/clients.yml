@@ -1,4 +1,9 @@
-enable        : true
-title         : "Those who trust our judgement(i.e where we've featured in)"
-client_logos  : 
-  ["https://via.placeholder.com", "https://via.placeholder.com",  "https://via.placeholder.com"]
+---
+enable: true
+title: Those who have experienced our work( You are in safe hands)
+client_logos:
+- "/images/img_20210208_072631.jpg"
+- "/images/ala.png"
+- https://via.placeholder.com
+- https://via.placeholder.com
+- https://via.placeholder.com
