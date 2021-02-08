@@ -2,6 +2,12 @@
 enable: true
 title: The Team That Makes The Difference
 members:
+- image: "/images/img-20210208-wa0001.jpg"
+  name: KEVIN KATTAM
+  designation: Digital Designer
+  medium: www.medium.com/
+  linkedIn: www.linkedin.com/in/
+  instagram: www.instagram.com/
 - image: "/images/img-20210207-wa0003.jpg"
   name: MAXWELL O. SIMBA
   designation: CEO, CO-FOUNDER
