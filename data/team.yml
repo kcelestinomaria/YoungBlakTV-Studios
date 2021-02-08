@@ -2,18 +2,18 @@
 enable: true
 title: The Team That Makes The Difference
 members:
+- image: "/images/oie_ul3pyzitebec-1.jpg"
+  name: MAXWELL O. SIMBA
+  designation: CEO, CO-FOUNDER
+  medium: https://www.medium.com/
+  linkedIn: https://www.linkedin.com/
+  instagram: https://www.instagram.com/
 - image: "/images/img-20210208-wa0001.jpg"
   name: KEVIN KATTAM
   designation: Digital Designer
   medium: www.medium.com/
   linkedIn: www.linkedin.com/in/
   instagram: www.instagram.com/
-- image: "/images/img-20210207-wa0003.jpg"
-  name: MAXWELL O. SIMBA
-  designation: CEO, CO-FOUNDER
-  medium: https://www.medium.com/
-  linkedIn: https://www.linkedin.com/
-  instagram: https://www.instagram.com/
 - image: "/images/img-20210208-wa0000.jpg"
   name: JOHNSON THOMPSON
   designation: Chief Photographer
