@@ -11,4 +11,4 @@ project_images:
 - images/projects/project-details-image-two.jpg
 
 ---
-At Logicae Science, we did some corporate photoshoots
+At Logicae Science, we did some corporate photoshoots.....
